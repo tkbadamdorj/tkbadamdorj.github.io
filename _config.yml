@@ -2,14 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: TK Badamdorj # the website title (if blank, full name will be used instead)
+title: Taivanbat Badamdorj (TK) # the website title (if blank, full name will be used instead)
 first_name: Taivanbat
 middle_name:
 last_name: Badamdorj
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -203,6 +201,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
