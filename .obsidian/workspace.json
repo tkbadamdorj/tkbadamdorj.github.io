@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "ccd6f8b1e3d92ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bb32d5dc22f8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e17fd4196a3b6591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-14-ibis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-14-ibis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1e016b61aa7da3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ff715765c28e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db248a7bf52ed4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00aef148e0f8b646",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f964c865d8d09f5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "459ed9d0c5358045",
+    "type": "split",
+    "children": [
+      {
+        "id": "d878c83fd2100dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea5523cd4fc10e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-14-ibis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-01-14-ibis"
+            }
+          },
+          {
+            "id": "3c9c43fb68900eb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-14-ibis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-01-14-ibis"
+            }
+          },
+          {
+            "id": "e45ad2b632dcfef7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1812c0c42ba55c64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-14-ibis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-01-14-ibis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e17fd4196a3b6591",
+  "lastOpenFiles": [
+    "_site/blog/2025/ibis/index.html",
+    "_site/blog/2025/ibis",
+    "_site/blog/2025/index.html",
+    "_site/blog/2025",
+    "_posts/_2024-01-14-pants.md",
+    "_posts/2024-01-14-ibis.md",
+    "_site/blog/2015/pants/index.html",
+    "_site/blog/2015/pants",
+    "_site/blog/2015/ibis-1/index.html",
+    "_site/blog/2015/ibis-1",
+    "Untitled.md",
+    "_site/Untitled.md",
+    "_site/blog/index.html",
+    "_config.yml~",
+    "_site/blog/2015/ibis/index.html",
+    "_example_posts/2015-10-20-math.md",
+    "_example_posts/2015-10-20-disqus-comments.md",
+    "_example_posts/2015-07-15-code.md",
+    "_example_posts/2023-05-12-custom-blockquotes.md",
+    "_example_posts/2023-04-25-audios.md",
+    "_example_posts/Untitled.canvas",
+    "_pages/blog.md",
+    "_pages/about.md"
+  ]
+}
