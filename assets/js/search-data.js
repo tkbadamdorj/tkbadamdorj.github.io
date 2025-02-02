@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-no-more-sql-using-ibis-as-a-machine-learning-researcher",
+        },{id: "post-how-i-used-pants-to-trigger-60-fewer-tests",
+      
+        title: "How I used pants to trigger 60% fewer tests",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/pants/";
+        
+      },
+    },{id: "post-no-more-sql-using-ibis-as-a-machine-learning-researcher",
       
         title: "No more SQL: using ibis as a machine learning researcher",
       
