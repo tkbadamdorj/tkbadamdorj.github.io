@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-14-ibis.md",
+                "file": "_posts/2024-02-02-pants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-14-ibis"
+              "title": "2024-02-02-pants"
             }
           }
         ]
@@ -160,28 +160,42 @@
   },
   "active": "fadd677dafa2b918",
   "lastOpenFiles": [
+    "_site/blog/tag/pants/index.html",
+    "_site/blog/tag/pants",
+    "_site/blog/tag/software-engineering/index.html",
+    "_site/blog/tag/software-engineering",
+    "_site/blog/tag/software/index.html",
+    "_site/blog/tag/software",
+    "_posts/2024-01-14-ibis.md",
+    "_posts/2024-02-02-pants.md",
+    "_pages/blog.md",
+    "_example_posts/2024-01-26-geojson-map.md",
+    "_example_posts/_2024-01-26-echarts.md",
+    "_example_posts/_2024-01-26-chartjs.md",
+    "_example_posts/_2023-12-12-tikzjax.md",
+    "_example_posts/_2023-07-12-post-bibliography.md",
+    "_example_posts/_2023-07-04-jupyter-notebook.md",
+    "_example_posts/_2023-05-12-custom-blockquotes.md",
+    "_example_posts/_2023-04-25-sidebar-table-of-contents.md",
+    "_example_posts/_2023-04-25-audios.md",
+    "_example_posts/_2023-04-24-videos.md",
+    "_example_posts/_2023-03-21-tables.md",
+    "_example_posts/_2023-03-20-table-of-contents.md",
+    "_example_posts/_2022-12-10-giscus-comments.md",
+    "_example_posts/_2022-02-01-redirect.md",
+    "_example_posts/_2021-07-04-diagrams.md",
+    "_example_posts/_2020-09-28-twitter.md",
+    "_example_posts/_2018-12-22-distill.md",
+    "_example_posts/_2015-10-20-math.md",
+    "_example_posts/_2015-10-20-disqus-comments.md",
+    "_example_posts/_2015-07-15-code.md",
+    "_example_posts/_2015-05-15-images.md",
+    "_example_posts/_2015-03-15-formatting-and-links.md",
     "_site/blog/2025/pants/index.html",
     "_site/blog/2025/pants",
-    "_posts/2024-02-02-pants.md",
-    "_posts/2024-01-14-ibis.md",
     "_site/blog/2025/ibis/index.html",
     "_site/blog/2025/ibis",
     "_site/blog/2025/index.html",
-    "_site/blog/2025",
-    "_site/blog/2015/pants/index.html",
-    "_site/blog/2015/pants",
-    "_site/blog/2015/ibis-1/index.html",
-    "_site/blog/2015/ibis-1",
-    "Untitled.md",
-    "_site/Untitled.md",
-    "_site/blog/index.html",
-    "_example_posts/2015-10-20-math.md",
-    "_example_posts/2015-10-20-disqus-comments.md",
-    "_example_posts/2015-07-15-code.md",
-    "_example_posts/2023-05-12-custom-blockquotes.md",
-    "_example_posts/2023-04-25-audios.md",
-    "_example_posts/Untitled.canvas",
-    "_pages/blog.md",
-    "_pages/about.md"
+    "_example_posts/Untitled.canvas"
   ]
 }
