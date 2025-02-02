@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-02-pants.md",
+                "file": "_pages/publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-02-02-pants"
+              "title": "publications"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "active": "fadd677dafa2b918",
   "lastOpenFiles": [
+    "_posts/2024-02-02-pants.md",
     "_site/assets/pdf/Taivanbat_Thesis.pdf",
     "_site/assets/pdf/MatchingDeadSeaScrolls.pdf",
     "_site/assets/pdf/CV.pdf",
@@ -170,9 +171,7 @@
     "_site/blog/tag/pants/index.html",
     "_site/blog/tag/pants",
     "_site/blog/tag/software-engineering/index.html",
-    "_site/blog/tag/software-engineering",
     "_posts/2024-01-14-ibis.md",
-    "_posts/2024-02-02-pants.md",
     "_pages/blog.md",
     "_example_posts/2024-01-26-geojson-map.md",
     "_example_posts/_2024-01-26-echarts.md",
