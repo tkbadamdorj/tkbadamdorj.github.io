@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62bb32d5dc22f8ad",
+        "id": "4d6de5dd5d520a23",
         "type": "tabs",
         "children": [
           {
-            "id": "e17fd4196a3b6591",
+            "id": "fadd677dafa2b918",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-14-ibis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-01-14-ibis"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-14-ibis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-01-14-ibis"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-01-14-ibis.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-01-14-ibis"
+              "title": "Outline"
             }
           }
         ]
@@ -162,14 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e17fd4196a3b6591",
+  "active": "fadd677dafa2b918",
   "lastOpenFiles": [
+    "_site/blog/2025/pants/index.html",
+    "_site/blog/2025/pants",
+    "_posts/2024-02-02-pants.md",
+    "_posts/2024-01-14-ibis.md",
     "_site/blog/2025/ibis/index.html",
     "_site/blog/2025/ibis",
     "_site/blog/2025/index.html",
     "_site/blog/2025",
-    "_posts/_2024-01-14-pants.md",
-    "_posts/2024-01-14-ibis.md",
     "_site/blog/2015/pants/index.html",
     "_site/blog/2015/pants",
     "_site/blog/2015/ibis-1/index.html",
@@ -177,8 +175,6 @@
     "Untitled.md",
     "_site/Untitled.md",
     "_site/blog/index.html",
-    "_config.yml~",
-    "_site/blog/2015/ibis/index.html",
     "_example_posts/2015-10-20-math.md",
     "_example_posts/2015-10-20-disqus-comments.md",
     "_example_posts/2015-07-15-code.md",
