@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-i-cut-our-ci-test-load-by-60-on-top-of-pants-39-built-in-optimizations",
+        },{id: "post-cutting-our-ci-test-load-by-60-on-top-of-pants-39-built-in-optimizations",
       
-        title: "I cut our CI test load by 60% on top of pants&#39; built-in...",
+        title: "Cutting our CI test load by 60% on top of pants&#39; built-in optimizations...",
       
       description: "",
       section: "Posts",
