@@ -19,7 +19,7 @@ My core interests are:
 - finding problems
 - solving them
 
-I am deeply interested in building software and machine learning models that are simple, beautiful, and easy to build on. Check out my [blog](/blog/)!
+I am deeply interested in building software and machine learning models that are simple, effective, and beautiful. Check out my [blog](/blog/)!
 
 Currently, I'm a Machine Learning Research Engineer at [RBC Borealis](https://rbcborealis.com/) serving as tech lead on [ATOM - a foundation model for financial services](https://rbcborealis.com/applications/atom/).
 
