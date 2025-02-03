@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_posts/2024-02-02-pants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2024-02-02-pants"
             }
           }
         ],
@@ -176,8 +176,8 @@
   },
   "active": "6cbbbd76bc47809a",
   "lastOpenFiles": [
-    "_pages/blog.md",
     "_pages/about.md",
+    "_pages/blog.md",
     "_posts/2024-02-02-pants.md",
     "Untitled.md",
     "_site/Untitled.md",
