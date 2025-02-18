@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-cutting-our-ci-test-load-by-70-using-pants",
+        },{id: "post-going-from-nothing-to-a-first-model",
+      
+        title: "Going from nothing to a first model",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/1-month/";
+        
+      },
+    },{id: "post-cutting-our-ci-test-load-by-70-using-pants",
       
         title: "Cutting our CI test load by 70% using pants",
       
