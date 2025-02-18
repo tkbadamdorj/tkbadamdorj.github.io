@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-02-pants.md",
+                "file": "_posts/2024-02-17-1-month.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-02-02-pants"
+              "title": "2024-02-17-1-month"
             }
           }
         ],
@@ -176,9 +176,19 @@
   },
   "active": "6cbbbd76bc47809a",
   "lastOpenFiles": [
-    "_posts/2024-01-14-ibis.md",
-    "_posts/_2024-02-02-attrs-configs.md",
+    "_posts/_2024-02-10-ai-software.md",
     "_posts/2024-02-02-pants.md",
+    "_posts/2024-01-14-ibis.md",
+    "_posts/2024-02-17-1-month.md",
+    "_site/blog/2025/1-month/index.html",
+    "_site/blog/2025/1-month",
+    "_site/blog/tag/opinion/index.html",
+    "_site/blog/tag/opinion",
+    "_posts/_2024-02-02-attrs-configs.md",
+    "_site/blog/2025/ai-software/index.html",
+    "_site/blog/2025/ai-software",
+    "_site/blog/2025/ibis-1/index.html",
+    "_site/blog/2025/ibis-1",
     "_posts/Untitled.md",
     "_pages/about.md",
     "_pages/blog.md",
@@ -187,14 +197,6 @@
     "_pages/publications.md",
     "_site/assets/pdf/Taivanbat_Thesis.pdf",
     "_site/assets/pdf/MatchingDeadSeaScrolls.pdf",
-    "_site/assets/pdf/CV.pdf",
-    "_site/assets/pdf",
-    "assets/pdf/MatchingDeadSeaScrolls.pdf",
-    "assets/pdf/CV.pdf",
-    "assets/pdf/Taivanbat_Thesis.pdf",
-    "_site/blog/tag/pants/index.html",
-    "_site/blog/tag/pants",
-    "_site/blog/tag/software-engineering/index.html",
     "_example_posts/2024-01-26-geojson-map.md",
     "_example_posts/_2024-01-26-echarts.md",
     "_example_posts/_2024-01-26-chartjs.md",
@@ -209,9 +211,6 @@
     "_example_posts/_2023-03-20-table-of-contents.md",
     "_example_posts/_2022-12-10-giscus-comments.md",
     "_example_posts/_2022-02-01-redirect.md",
-    "_example_posts/_2021-07-04-diagrams.md",
-    "_example_posts/_2020-09-28-twitter.md",
-    "_example_posts/_2018-12-22-distill.md",
     "_example_posts/Untitled.canvas"
   ]
 }
