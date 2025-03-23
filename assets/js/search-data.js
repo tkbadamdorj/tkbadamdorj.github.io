@@ -34,6 +34,39 @@ ninja.data = [{
           window.location.href = "/blog/2025/presentations/";
         
       },
+    },{id: "post-going-from-nothing-to-a-first-model",
+      
+        title: "Going from nothing to a first model",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/1-month/";
+        
+      },
+    },{id: "post-cutting-our-ci-test-load-by-70-using-pants",
+      
+        title: "Cutting our CI test load by 70% using pants",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/pants/";
+        
+      },
+    },{id: "post-no-more-sql-using-ibis-as-a-machine-learning-researcher",
+      
+        title: "No more SQL: using ibis as a machine learning researcher",
+      
+      description: "How to give in to your fears of SQL and/or possibly improve your life",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ibis/";
+        
+      },
     },{id: "news-one-paper-accepted-to-iccv-2021",
           title: 'One paper accepted to ICCV 2021',
           description: "",
