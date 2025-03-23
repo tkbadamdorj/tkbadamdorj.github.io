@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-19-presentations.md",
+                "file": "_posts/2025-02-17-1-month.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-19-presentations"
+              "title": "2025-02-17-1-month"
             }
           }
         ]
@@ -162,8 +162,9 @@
   "active": "6cbbbd76bc47809a",
   "lastOpenFiles": [
     "_posts/2025-02-02-pants.md",
-    "_posts/2025-02-17-1-month.md",
+    "_posts/2025-01-14-ibis.md",
     "_posts/2025-03-19-presentations.md",
+    "_posts/2025-02-17-1-month.md",
     "_pages/about.md",
     "_site/blog/2025/presentations/index.html",
     "_site/blog/2025/presentations",
@@ -172,7 +173,6 @@
     "_site/blog/2025/ibis-1/index.html",
     "_site/blog/2025/ibis-1",
     "_posts/202.md",
-    "_posts/2025-01-14-ibis.md",
     "_posts/_2024-02-10-ai-software.md",
     "_posts/_2024-02-02-attrs-configs.md",
     "_site/blog/2025/1-month/index.html",
