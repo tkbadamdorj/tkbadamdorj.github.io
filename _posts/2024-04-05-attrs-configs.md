@@ -5,7 +5,6 @@ date: 2025-04-05 15:09:00
 description: 
 tags:
   - software-engineering
-  - pants
 categories: 
 featured: false
 ---
