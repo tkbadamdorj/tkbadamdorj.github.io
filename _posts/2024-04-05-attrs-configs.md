@@ -71,17 +71,17 @@ class Person:
     name: str = field()
     age: int = field()
 
-	@name.validator:
-	def name_is_str(self, attribute, value):
-		if not isinstance(value, str):
-			raise TypeError("name is not of type string.")
+    @name.validator:
+    def name_is_str(self, attribute, value):
+        if not isinstance(value, str):
+            raise TypeError("name is not of type string.")
 
-	@age.validator
-	def valid_age(self, attribute, value):
-		if not isinstance(value, int):
-			raise TypeError("age is not of type int.")
-		if value < 0:
-			raise ValueError("age must be greater than or equal to zero.")
+    @age.validator
+    def valid_age(self, attribute, value):
+        if not isinstance(value, int):
+            raise TypeError("age is not of type int.")
+        if value < 0:
+            raise ValueError("age must be greater than or equal to zero.")
 ```
 
 When you try to create a `Person` with invalid data:
