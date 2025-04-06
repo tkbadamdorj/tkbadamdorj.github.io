@@ -24,12 +24,12 @@ Consider a typical ML training script using Hydra for configuration:
 @hydra.main(config_path=".", config_name="config", version_base=None)
 def main(cfg: DictConfig):
     model = MyModel()
-    train_dataset = MyDataset(path=cfg.train_dataset_path)
+    train_dataset = MyDataset(cfg.train_dataset_path)
     train(model, train_dataset)
 
     test_dataset = MyDataset(cfg.test_dataset_path)
     test_metric = F1Score(average=cfg.f1_average_kind)
-    test(model, test_dataset)
+    test(model, test_metric, test_dataset)
 ```
 
 And the relevant configuration file:
@@ -177,7 +177,7 @@ def main(cfg: DictConfig):
 
     test_dataset = MyDataset(cfg.test_data_path)
     test_metric = F1Score(average=cfg.f1_average_kind)
-    test(model, test_dataset)
+    test(model, test_metric, test_dataset)
 ```
 ---
 ## Final Thoughts

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-03-atom.md",
+                "file": "_posts/2024-04-05-attrs-configs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-03-atom"
+              "title": "2024-04-05-attrs-configs"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "6cbbbd76bc47809a",
   "lastOpenFiles": [
+    "_posts/2025-03-03-atom.md",
     "_posts/2024-04-05-attrs-configs.md",
     "_site/blog/2025/attrs-configs/index.html",
     "_site/blog/2025/attrs-configs",
@@ -172,7 +173,6 @@
     "Untitled.md",
     "_site/Untitled.md",
     "_posts/2025-03-19-presentations.md",
-    "_posts/2025-03-03-atom.md",
     "_posts/2025-02-17-1-month.md",
     "_posts/2025-02-02-pants.md",
     "_posts/2025-01-14-ibis.md",
