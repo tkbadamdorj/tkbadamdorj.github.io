@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-presenting-in-industry-as-an-academic",
+        },{id: "post-shifting-left-in-ml-catching-configuration-errors",
+      
+        title: "Shifting-left in ML: catching configuration errors",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/attrs-configs/";
+        
+      },
+    },{id: "post-presenting-in-industry-as-an-academic",
       
         title: "Presenting in industry as an academic",
       
