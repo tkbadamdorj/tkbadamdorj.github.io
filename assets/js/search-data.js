@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-shifting-left-in-ml-catching-configuration-errors",
+        },{id: "post-goals-to-attempt-for-the-rest-of-2025",
+      
+        title: "Goals to attempt for the rest of 2025",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/goals/";
+        
+      },
+    },{id: "post-shifting-left-in-ml-catching-configuration-errors",
       
         title: "Shifting-left in ML: catching configuration errors",
       
