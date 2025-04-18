@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-05-attrs-configs.md",
+                "file": "_posts/2025-04-18-goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-04-05-attrs-configs"
+              "title": "2025-04-18-goals"
             }
           }
         ]
@@ -161,27 +161,28 @@
   },
   "active": "6cbbbd76bc47809a",
   "lastOpenFiles": [
+    "_posts/2025-04-18-goals.md",
+    "_site/blog/2025/goals/index.html",
+    "_site/blog/2025/goals",
+    "_posts/2025-02-02-pants.md",
+    "_posts/_2025-04-05-twenty-minutes.md",
+    "_posts/2025-03-19-presentations.md",
     "_posts/2025-03-03-atom.md",
+    "_posts/2025-02-17-1-month.md",
+    "_posts/2025-01-14-ibis.md",
     "_posts/2024-04-05-attrs-configs.md",
     "_site/blog/2025/attrs-configs/index.html",
     "_site/blog/2025/attrs-configs",
-    "_posts/_2025-04-05-twenty-minutes.md",
     "_site/blog/2025/twenty-minutes/index.html",
     "_site/blog/2025/twenty-minutes",
     "_site/blog/2025/presentations-1/index.html",
     "_site/blog/2025/presentations-1",
     "Untitled.md",
     "_site/Untitled.md",
-    "_posts/2025-03-19-presentations.md",
-    "_posts/2025-02-17-1-month.md",
-    "_posts/2025-02-02-pants.md",
-    "_posts/2025-01-14-ibis.md",
     "_example_posts/_2024-02-10-ai-software.md",
     "_example_posts/2024-12-04-photo-gallery.md",
     "_site/blog/2025/atom/index.html",
     "_site/blog/2025/atom",
-    "_site/blog/2025/redirect/index.html",
-    "_site/blog/2025/redirect",
     "_pages/blog.md",
     "_example_posts/2024-05-01-tabs.md",
     "_example_posts/_2023-04-24-videos.md",
@@ -195,7 +196,6 @@
     "_example_posts/_2015-10-20-disqus-comments.md",
     "_example_posts/_2015-07-15-code.md",
     "_example_posts/_2015-05-15-images.md",
-    "_example_posts/_2015-03-15-formatting-and-links.md",
     "_example_posts/Untitled.canvas"
   ]
 }
