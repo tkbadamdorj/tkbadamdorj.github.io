@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6de5dd5d520a23",
+        "id": "3b7edf9537714af8",
         "type": "tabs",
         "children": [
           {
-            "id": "6cbbbd76bc47809a",
+            "id": "71526bdb787e3d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-18-goals.md",
+                "file": "_posts/2025-06-08-hanging-out.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-18-goals"
+              "title": "2025-06-08-hanging-out"
             }
           }
         ]
@@ -159,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cbbbd76bc47809a",
+  "active": "71526bdb787e3d6c",
   "lastOpenFiles": [
+    "_posts/2025-06-08-hanging-out.md",
+    "_site/blog/2025/hanging-out/index.html",
+    "_site/blog/2025/hanging-out",
+    "_posts/_2025-04-20-bugs.md",
     "_posts/2025-04-18-goals.md",
     "_site/blog/2025/goals/index.html",
     "_site/blog/2025/goals",
@@ -181,8 +185,6 @@
     "_site/Untitled.md",
     "_example_posts/_2024-02-10-ai-software.md",
     "_example_posts/2024-12-04-photo-gallery.md",
-    "_site/blog/2025/atom/index.html",
-    "_site/blog/2025/atom",
     "_pages/blog.md",
     "_example_posts/2024-05-01-tabs.md",
     "_example_posts/_2023-04-24-videos.md",
@@ -194,8 +196,6 @@
     "_example_posts/_2018-12-22-distill.md",
     "_example_posts/_2015-10-20-math.md",
     "_example_posts/_2015-10-20-disqus-comments.md",
-    "_example_posts/_2015-07-15-code.md",
-    "_example_posts/_2015-05-15-images.md",
     "_example_posts/Untitled.canvas"
   ]
 }
