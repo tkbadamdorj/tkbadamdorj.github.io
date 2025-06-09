@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-goals-to-attempt-for-the-rest-of-2025",
+        },{id: "post-return-to-office-policies-and-getting-to-know-your-coworkers",
+      
+        title: "Return-to-office policies and getting to know your coworkers",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/hanging-out/";
+        
+      },
+    },{id: "post-goals-to-attempt-for-the-rest-of-2025",
       
         title: "Goals to attempt for the rest of 2025",
       
