@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-return-to-office-policies-and-getting-to-know-your-coworkers",
+        },{id: "post-refactoring-with-purpose-code-product-and-trade-offs",
+      
+        title: "Refactoring with purpose: code, product, and trade-offs",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/refactoring-thoughts/";
+        
+      },
+    },{id: "post-return-to-office-policies-and-getting-to-know-your-coworkers",
       
         title: "Return-to-office policies and getting to know your coworkers",
       
