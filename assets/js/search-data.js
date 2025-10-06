@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-refactoring-with-purpose-code-product-and-trade-offs",
+        },{id: "post-people-don-39-t-know-how-to-talk-to-each-other-how-to-have-technical-discussions",
+      
+        title: "People don&#39;t know how to talk to each other: how to have technical...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/technical-discussions/";
+        
+      },
+    },{id: "post-refactoring-with-purpose-code-product-and-trade-offs",
       
         title: "Refactoring with purpose: code, product, and trade-offs",
       
