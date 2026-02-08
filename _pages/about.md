@@ -21,7 +21,9 @@ My core interests are:
 
 I am deeply interested in building software and machine learning models that are simple, effective, and beautiful. Check out my [blog](/blog/)!
 
-Currently, I'm a Machine Learning Research Engineer at [RBC Borealis](https://rbcborealis.com/) serving as tech lead on [ATOM - a foundation model for financial services](https://rbcborealis.com/applications/atom/).
+Currently, I'm a Machine Learning Engineer at [Electronic Arts (EA)](https://www.ea.com/), working on applying agentic AI to video game testing.
+
+Previously, I was a Machine Learning Research Engineer at [RBC Borealis](https://rbcborealis.com/) where I served as tech lead on [ATOM - a foundation model for financial services](https://rbcborealis.com/applications/atom/).
 
 I obtained my Master of Science degree in Computer Vision and Machine Learning from the University of Alberta. I have publications at top conferences such as [CVPR](https://openaccess.thecvf.com/content/CVPR2022/html/Badamdorj_Contrastive_Learning_for_Unsupervised_Video_Highlight_Detection_CVPR_2022_paper.html), [ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Badamdorj_Joint_Visual_and_Audio_Learning_for_Video_Highlight_Detection_ICCV_2021_paper.pdf) and [EMNLP](https://arxiv.org/pdf/2108.12126.pdf).
 
