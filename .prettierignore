@@ -13,3 +13,6 @@ _scripts/search.liquid.js
 .github/workflows/**
 .obsidian/**
 _example_posts/**
+_posts/**
+_news/**
+_pages/**
