@@ -159,6 +159,9 @@ ninja.data = [{
           section: "News",},{id: "news-promoted-to-machine-learning-research-engineer-ii-at-rbc-borealis-formerly-borealis-ai",
           title: 'Promoted to Machine Learning Research Engineer II at RBC Borealis (formerly Borealis AI)...',
           description: "",
+          section: "News",},{id: "news-joined-electronic-arts-ea-as-a-machine-learning-engineer-working-on-applying-agentic-ai-to-video-game-testing",
+          title: 'Joined Electronic Arts (EA) as a Machine Learning Engineer, working on applying agentic...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
